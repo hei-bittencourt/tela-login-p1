@@ -1,0 +1,92 @@
+.containerPrincipal {
+    width: 100vw;
+    height: 100vh;
+    background-color: #D9E6F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.containerInterno {
+    width: 550px;
+    height: 700px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.formulario {
+    width: 538px;
+    height: 330px;
+    background-color: #E8EEFA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario p {
+    margin-bottom: 36px;
+    font-weight: 700;
+    font-size: large;
+}
+
+.formulario input {
+    width: 500px;
+    padding: 20px 5px;
+    font-size: larger;
+}
+
+.formulario button {
+    width: 500px;
+    padding: 20px 5px;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.formulario a {
+    margin-top: 16px;
+    color: #0546BB;
+}
+
+.novoMembro {
+    width: 538px;
+    height: 120px;
+    background-color:#E8EEFA;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: large;
+
+}
+
+.novoMembro a {
+    color: #0546BB;
+}
+
+.footer {
+    width: 550px;
+    height: 66px;
+    background-color: #D9E6F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    
+}
+
+.footer p {
+    width: 550px;
+    height: 30px;
+    background-color: #BCCDE9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 5px 5px ;
+}
